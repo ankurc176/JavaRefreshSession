@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="" />
+    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalDemo/FinalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalDemo/FinalClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/MainStoreOffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/MainStoreOffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/MultithreadedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/MultithreadedSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/SerializableSingletonEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/SerializableSingletonEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaticDemo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticDemo/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2UQBGvKdj4S8wnYmrNbSdlsJN7U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +39,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.SerializableSingletonEx">
+    <configuration name="MainStoreOffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceDemoSession.MainStoreOffer" />
+      <module name="JavaRefreshSessionAugust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceDemoSession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultithreadedSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.MultithreadedSingleton" />
+      <module name="JavaRefreshSessionAugust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializableSingletonEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.SerializableSingletonEx" />
+      <module name="JavaRefreshSessionAugust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticDemo.Test" />
+      <module name="JavaRefreshSessionAugust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaticDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SerializableSingletonEx" />
+        <item itemvalue="Application.MultithreadedSingleton" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MainStoreOffer" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
