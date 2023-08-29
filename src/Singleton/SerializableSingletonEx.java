@@ -14,6 +14,14 @@ public class SerializableSingletonEx {
             out.writeObject(obj);
             out.close();
 
+            FileInputStream inputStream = new FileInputStream("OutPut.txt");
+            ObjectInputStream in = new ObjectInputStream(inputStream);
+            MultithreadedSingleton obj1 = (MultithreadedSingleton) in.readObject();
+            in.close();
+
+            System.out.println("Instance of Serializable " + obj.hashCode());
+            System.out.println("Instance of DeSerializable " + obj1.hashCode());
+
         } catch (Exception e)
         {
             e.printStackTrace();

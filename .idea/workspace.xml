@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ThrowsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/TryResourcesExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FinalDemo/FinalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalDemo/FinalClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/MainStoreOffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/MainStoreOffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceDemoSession/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceDemoSession/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Singleton/MultithreadedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/MultithreadedSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Singleton/SerializableSingletonEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/SerializableSingletonEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticDemo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticDemo/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +43,9 @@
   }
 }</component>
   <component name="RunManager" selected="Application.SerializableSingletonEx">
-    <configuration name="MainStoreOffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceDemoSession.MainStoreOffer" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaRefreshSessionAugust" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfaceDemoSession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,12 +76,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticDemo.Test" />
+    <configuration name="ThrowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.ThrowsTest" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StaticDemo.*" />
+          <option name="PATTERN" value="Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryResourcesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.TryResourcesExample" />
+      <module name="JavaRefreshSessionAugust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,9 +105,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SerializableSingletonEx" />
+        <item itemvalue="Application.TryResourcesExample" />
+        <item itemvalue="Application.ThrowsTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MultithreadedSingleton" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MainStoreOffer" />
       </list>
     </recent_temporary>
   </component>
@@ -129,5 +133,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
