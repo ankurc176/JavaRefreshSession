@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exception/ThrowsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/TryResourcesExample.java" afterDir="false" />
+    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="Commit for recent changes">
+      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adaptee/weightInPound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adaptee/weightInPoundForBabiesImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adapter/weightInKg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adapter/weightInKgsImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Main/MainClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/DiscountInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/PremiumEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/StandardEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program/ConstructorExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program/SecondHighestStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program/StreamCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program/StreamInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program/StringPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program/ThisProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program/UndoRedo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/ReflectionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/InterThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/MultithreadedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/MultithreadedSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/SerializableSingletonEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/SerializableSingletonEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -25,6 +40,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Program/StreamInterview.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,20 +60,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SerializableSingletonEx">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaRefreshSessionAugust" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultithreadedSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.MultithreadedSingleton" />
+  <component name="RunManager" selected="Application.MainClient">
+    <configuration name="MainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdapterDesignPattern.Main.MainClient" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="AdapterDesignPattern.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializableSingletonEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.SerializableSingletonEx" />
+    <configuration name="SecondHighestStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.SecondHighestStream" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.ThrowsTest" />
+    <configuration name="StreamInterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.StreamInterview" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryResourcesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.TryResourcesExample" />
+    <configuration name="StringPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.StringPattern" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UndoRedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.UndoRedo" />
+      <module name="JavaRefreshSessionAugust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SerializableSingletonEx" />
-        <item itemvalue="Application.TryResourcesExample" />
-        <item itemvalue="Application.ThrowsTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MultithreadedSingleton" />
+        <item itemvalue="Application.MainClient" />
+        <item itemvalue="Application.StringPattern" />
+        <item itemvalue="Application.UndoRedo" />
+        <item itemvalue="Application.SecondHighestStream" />
+        <item itemvalue="Application.StreamInterview" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +145,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692861836002</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit for recent changes">
+      <created>1693289480841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693289480841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +166,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit for recent changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit for recent changes" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -141,6 +177,25 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/InterThread.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Program/UndoRedo.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Program/ThisProgram.java</url>
+          <line>16</line>
+          <properties class="Program.ThisProgram" method="method">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
