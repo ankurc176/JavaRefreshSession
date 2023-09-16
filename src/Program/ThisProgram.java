@@ -3,9 +3,12 @@ package Program;
 class A {
     int x = 10;
 
+//    A() {
+//        System.out.println("Base Class"+this.x);
+//    }
 
     public void method() {
-        System.out.println("Hello" + this.x);
+        System.out.println("Hello");
     }
 
 }
@@ -14,9 +17,14 @@ public class ThisProgram extends A{
 
     int x = 5;
 
-    public void method () {
-        System.out.println(this.x);
-        System.out.println(super.x);
+//    ThisProgram() {
+//        System.out.println("Child Class");
+//    }
+
+    public void method() {
+//        System.out.println(this.x);
+//        System.out.println(super.x);
+        System.out.println("Child Class");
     }
 
     public static void main(String[] args) {
@@ -25,8 +33,10 @@ public class ThisProgram extends A{
         a.method();
 
     }
-
 }
+
+
+
 
 //class Amount {
 //    public Amount(String currency, int amount) {

@@ -38,13 +38,13 @@ public class StringPattern {
     }
 
     //STACK IMPLEMENTATION
-
     public static boolean isValidCheck (String s) {
-        String str ="]";  /// Stack = (
+        //String str ="]";  /// Stack = (
         Stack<Character> stack = new Stack<>();
 
         for(int i = 0; i< s.length(); i++) {
             char ch = s.charAt(i);
+
             if(ch == ']') {
                 if(stack.peek()=='[') {
                     stack.pop();
