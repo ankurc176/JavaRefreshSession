@@ -8,6 +8,7 @@ public class Main {
         System.out.print(x+" ");
         functionCall();
         System.out.print(x+" ");
+
     }
 
     public static void functionCall() {

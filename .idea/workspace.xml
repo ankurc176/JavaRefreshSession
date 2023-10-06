@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="Commit for recent changes">
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adaptee/weightInPound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adaptee/weightInPoundForBabiesImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adapter/weightInKg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Adapter/weightInKgsImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Main/MainClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/DiscountInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/PremiumEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterface/StandardEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/ConstructorExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/SecondHighestStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/StreamCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/StreamInterview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/StringPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/ThisProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/UndoRedo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/ReflectionEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/StackImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/InterThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="Commit for recent changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="99c4e511-0718-48ab-bd43-40fa1f73b15a" />
+        <option name="url" value="https://github.com/ankurc176/JavaRefreshSession.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Program/StreamInterview.java" root0="FORCE_HIGHLIGHTING" />
@@ -60,22 +46,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainClient">
-    <configuration name="MainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdapterDesignPattern.Main.MainClient" />
-      <module name="JavaRefreshSessionAugust" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdapterDesignPattern.Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondHighestStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program.SecondHighestStream" />
+  <component name="RunManager" selected="Application.YieldAndJoin">
+    <configuration name="EpamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.EpamTest" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +60,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamInterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program.StreamInterview" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparable.Main" />
+      <module name="JavaRefreshSessionAugust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.Overloading" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program.StringPattern" />
+    <configuration name="SecondHighestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.SecondHighestArray" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UndoRedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program.UndoRedo" />
+    <configuration name="YieldAndJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.YieldAndJoin" />
       <module name="JavaRefreshSessionAugust" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Program.*" />
+          <option name="PATTERN" value="Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClient" />
-        <item itemvalue="Application.StringPattern" />
-        <item itemvalue="Application.UndoRedo" />
-        <item itemvalue="Application.SecondHighestStream" />
-        <item itemvalue="Application.StreamInterview" />
+        <item itemvalue="Application.YieldAndJoin" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Overloading" />
+        <item itemvalue="Application.EpamTest" />
+        <item itemvalue="Application.SecondHighestArray" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693289480841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit for recent changes">
+      <created>1694331225556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694331225556</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,15 +181,30 @@
           <line>39</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Program/ThisProgram.java</url>
-          <line>16</line>
-          <properties class="Program.ThisProgram" method="method">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/InterThread.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/InterThread.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/SleepAndWait.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Program/Overloading.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

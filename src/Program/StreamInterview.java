@@ -1,7 +1,8 @@
 package Program;
 
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.function.Function;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 public class StreamInterview {
@@ -14,6 +15,10 @@ public class StreamInterview {
 
     public static void main(String[] args) {
 
+        ArrayList<Integer> integers = (ArrayList<Integer>) Arrays.asList(1,2,3,4,5,6);
+
+        Iterator iterator = integers.iterator();
+
         StreamInterview ob = new StreamInterview("VVV");
         System.out.println(ob.name);
 
@@ -24,7 +29,6 @@ public class StreamInterview {
         Map<Integer, List<String>> collect = list.stream().collect(Collectors.groupingBy(s -> s.length(), Collectors.toList()));
 
         System.out.println(collect);
-
 
         //Input = ["Hello"," ","World"]
         //Output = HelloWorld
