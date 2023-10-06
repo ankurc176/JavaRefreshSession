@@ -22,9 +22,9 @@ public class YieldAndJoin extends Thread{
 
         t1.yield();
         t1.start();
-        //t1.join();
+        t1.join();
         t2.start();
-        //t2.join();
+        t2.join();
         t3.start();
 
     }

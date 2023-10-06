@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="Commit for recent changes">
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionPropogation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ParentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InfosysCoding/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InfosysCoding/SumOfEvenStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/EpamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/FuncThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/HashMapImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/InnerOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program/SecondHighestArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/SleepAndWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/YieldAndJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparable/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program/StreamInterview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program/StreamInterview.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa6b4531-fa6f-4519-a46e-7952f29263f4" name="Changes" comment="Commit for recent changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
